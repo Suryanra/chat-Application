@@ -22,6 +22,14 @@ complete view of chat application:
 
 ![image](https://github.com/Suryanra/chat-application/assets/142992104/e732ecac-3cee-4f00-88cb-d247b2b5e6d6)
 
+how to run:
+step 1)just clone it
+step 2) move to Backend and write npm i
+step 4) in the Backend write nodemon App.js
+step 3) move to frontend and write npm i
+step 4)in the frontend and write npm start
+step5) you application now opened 😎🎆🎇🎉
+
 
 
 
