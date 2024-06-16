@@ -12,9 +12,9 @@
 
 <h3>Technology</h3>
 <ul>
-  <li><h4>Frontend</h4>:React.js, HTML ,CSS ,JavaScript</li>
-  <li><h4>Backend</h4>:Nodejs,SocketIo,expressjs,mongoose</li>
-  <li><h4>Database</h4>:MongoDb</li>
+  <li><h4>Frontend</h4>React.js, HTML ,CSS ,JavaScript</li>
+  <li><h4>Backend</h4>Nodejs,SocketIo,expressjs,mongoose</li>
+  <li><h4>Database</h4>MongoDb</li>
 </ul>
 
 <h4>some images of chat application</h4>
